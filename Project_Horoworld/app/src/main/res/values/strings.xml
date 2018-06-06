@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Horoworld</string>
+    <string name="outcome_1">
+        "ใบที่หนึ่งสมมาตรปรารถนาทายไว้ว่ามีคนชุบอุปถัมภ์\n หมายสิ่งใดในจิตคิดจะทำ\n"
+"ว่าคงสำเร็จประมาณมี\n แต่ช้าช้าจึงจะสมอารมณ์ปอง\n"
+        "ทั้งพวกพ้องปรีเปรมเกษมศรี\n ว่าอยู่เย็นเป็นสุขทุกเดือนปี\n"
+        "แม้นใบนี้ถามโรคที่โศกกาย\n ว่าคงหายเบาบางเหมือนอย่างทายกัน\n"
+"หรือถามหมายหาลาภไม่หยาบคำ\n ว่าช้าช้าคงสมอารมณ์นึก\n"
+        "ได้ก้องกึกเหล่่ากออเป็นข้อขำ\n
+ถามหาคู่ดีนักเหมือนชักนำขอจบคำที่หนึ่งรำพึงเอยฯ\n"
+    </string>
+    <string name="outcome_2">Get shitted on</string>
+    <string name="outcome_3">Find money</string>
+    <string name="outcome_4">Lose money</string>
+    <string name="outcome_5">Lose a friend</string>
+    <string name="outcome_6">Get kidnapped</string>
+    <string name="outcome_7">Join a Mariachi Band</string>
+    <string name="outcome_8">Do nothing</string>
+    <string name="outcome_blank">Shake or Press Button</string>
+</resources>

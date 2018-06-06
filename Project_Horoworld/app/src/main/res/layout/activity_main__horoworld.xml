@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_main"
+    tools:context="com.example.horoworld.project_horoworld.Main_Horoworld">
+
+    <Button
+        android:id="@+id/btn_pray"
+        android:layout_width="186dp"
+        android:layout_height="69dp"
+        android:layout_column="0"
+        android:layout_marginTop="34dp"
+        android:layout_row="9"
+        android:background="@drawable/button_yellow1"
+        android:text="บทสวดมนต์"
+        android:textColor="@android:color/black"
+        android:textSize="18sp"
+        android:onClick="onClick"
+        android:layout_below="@+id/btn_seamsi"
+        android:layout_alignLeft="@+id/btn_seamsi"
+        android:layout_alignStart="@+id/btn_seamsi" />
+
+    <Button
+        android:id="@+id/btn_seamsi"
+        android:layout_width="186dp"
+        android:layout_height="69dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_column="0"
+        android:layout_marginTop="174dp"
+        android:layout_row="9"
+        android:background="@drawable/button_yellow1"
+        android:text="เสี่ยงเซียมซี"
+        android:textColor="@android:color/black"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="16dp"
+        android:layout_height="16dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="14dp"
+        android:layout_marginEnd="17dp"
+        android:layout_marginRight="17dp"
+        android:background="@drawable/exit" />
+
+</RelativeLayout>
